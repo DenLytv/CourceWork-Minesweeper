@@ -24,15 +24,15 @@ A classic Minesweeper game implemented in Python using the Tkinter GUI library. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/minesweeper.git
+   git clone https://github.com/DenLytv/CourseWork-Minesweeper.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd minesweeper
+   cd CourceWork-Minesweeper
    ```
 3. Run the game:
    ```bash
-   python minesweeper.py
+   python main.py
    ```
 
 ## How to Play
@@ -63,5 +63,5 @@ You can customize:
 
 ## Files
 
-- `minesweeper.py` - Main game file
+- `main.py` - Main game file
 - `*_leaderboard.csv` - Leaderboard data files (automatically created)
